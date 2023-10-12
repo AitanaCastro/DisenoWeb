@@ -46,7 +46,7 @@ Describir las URLs formadas y explicar por qué son adecuadas:
 ### Favicon
 Mostrar su diseño, origen, significado e indicar su ubicación.
 Ejemplo - Respecto a la Web HiperMARK:
-![imagen](./Imagenes/logo.png)
+![imagen](./Imagenes/logo.PNG)
 
 El favicon está diseñado con Microsoft Visio y se encuentra ubicado en este [enlace](https://studio.tailorbrands.com/business/116958834/wizard/editor?backTo=logos-page&currentId=8620740628&logosStepId=701514276&origBrandVersionId=8620740628&primaryBrandVersionId=8620740628
 ).
@@ -96,9 +96,9 @@ También, se puede mostrar la URL de Sitio Web en:
 - Vehículos de la empresa.
 - Productos.
 
-![imagen](./Imagenes/logo1.png)
-![imagen](./Imagenes/logo2.png)
-![imagen](./Imagenes/logo3.png)
+![imagen](./Imagenes/logo1.PNG)
+![imagen](./Imagenes/logo2.PNG)
+![imagen](./Imagenes/logo3.PNG)
 
 
 
