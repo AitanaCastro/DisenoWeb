@@ -27,9 +27,31 @@ Aquí va un [enlace](https://google.es) hacia nuestro Sitio Web .
 
 
 
-![imagen](./Imagenes/comparador-de-precios.jpg)
+![imagen](./Actividad1/Imagenes/comparador-de-precios.jpg)
+
+---
+<br>
 
 ## DISEÑO WEB
+
+### Colores principales de la página web
+La elección de un tono principal azul y el color Ivory como tono secundario para una página web de negocios puede ser una decisión estratégica acertada por varias razones:
+
+- Profesionalismo: El hex que es un derivado del azul, es un color que generalmente se asocia con la confianza, la profesionalidad y la seriedad. Puede ser especialmente adecuado para una página web de negocios, ya que transmite credibilidad, lo que puede ayudar a los visitantes de tu sitio web a sentirse seguros y cómodos al interactuar con tu negocio en línea.
+
+- Contraste efectivo: El ivory, como tono secundario, puede proporcionar un contraste efectivo con el hex principal. Esto puede usarse para resaltar elementos clave, como llamadas a la acción o información importante en el sitio web.
+
+- Elegancia y sofisticación: La combinación de hex con ivory puede dar a tu sitio web un aspecto elegante y sofisticado, lo que es beneficioso si deseas transmitir una imagen de calidad y profesionalismo.
+
+- Legibilidad: El ivory es un color claro que puede mejorar la legibilidad de texto y contenido en tu sitio web, lo que es crucial para comunicar de manera efectiva tu mensaje a los visitantes.
+
+- Versatilidad: La combinación de color hex e ivory es versátil y se puede adaptar a diferentes tipos de negocios y públicos, lo que te brinda flexibilidad para el diseño y la presentación de contenido.
+
+<br>
+
+![imagen](./Actividad1/Imagenes/dise%C3%B1ocolor.png)
+
+<br>
 
 ### Aspectos generales
 Indicar tecnologías y/o lenguajes de programación web utilizados:
@@ -46,9 +68,12 @@ Describir las URLs formadas y explicar por qué son adecuadas:
 ### Favicon
 Mostrar su diseño, origen, significado e indicar su ubicación.
 Ejemplo - Respecto a la Web HiperMARK:
-![imagen](./Imagenes/logo.PNG)
 
-El favicon está diseñado con Microsoft Visio y se encuentra ubicado en este [enlace](https://studio.tailorbrands.com/business/116958834/wizard/editor?backTo=logos-page&currentId=8620740628&logosStepId=701514276&origBrandVersionId=8620740628&primaryBrandVersionId=8620740628
+<br>
+
+![imagen](./Actividad1/Imagenes/logo.png)
+
+El favicon está diseñado con Tailor Brands y se encuentra ubicado en este [enlace](https://studio.tailorbrands.com/business/116958834/wizard/editor?backTo=logos-page&currentId=8620740628&logosStepId=701514276&origBrandVersionId=8620740628&primaryBrandVersionId=8620740628
 ).
 
 ## MARKETING OFF Y ONLINE
@@ -70,7 +95,6 @@ Describir dónde debemos estar y la estrategia a seguir.
 Describir las acciones realizadas en este sentido. Por ejemplo:
 Reservar perfiles en distintas redes sociales (aunque no se vayan a utilizar de
 momento).
-
 
 ### Online Reputation Management (ORM)
 Describir de qué forma se va a gestionar la reputación online del Sitio Web, de la
@@ -96,9 +120,9 @@ También, se puede mostrar la URL de Sitio Web en:
 - Vehículos de la empresa.
 - Productos.
 
-![imagen](./Imagenes/logo1.PNG)
-![imagen](./Imagenes/logo2.PNG)
-![imagen](./Imagenes/logo3.PNG)
+![imagen](./Actividad1/Imagenes/logo1.png)
+![imagen](./Actividad1/Imagenes/logo2.png)
+![imagen](./Actividad1/Imagenes/logo3.png)
 
 
 
@@ -113,3 +137,5 @@ Vamos a poner un párrafo que he metido en mi proyecto:
 # <pre>Lorem</pre>
 <p>Vamos a morir todos</p>
 ```
+
+
