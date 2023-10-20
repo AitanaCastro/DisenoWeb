@@ -53,6 +53,12 @@ La elección de un tono principal azul y el color Ivory como tono secundario par
 
 <br>
 
+**Ficheros:**
+- [index.html](./Actividad3/Ejercicio/colores.html)
+
+<br>
+
+
 ### Aspectos generales
 Indicar tecnologías y/o lenguajes de programación web utilizados:
 - HTML
