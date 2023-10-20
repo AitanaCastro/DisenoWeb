@@ -53,7 +53,7 @@ La elección de un tono principal azul y el color Ivory como tono secundario par
 
 <br>
 
-**Ficheros:**
+**Ficheros Actividad 3:**
 - [index.html](./Actividad3/Ejercicio/colores.html)
 - [style.css](./Actividad3/Ejercicio/style.css)
 
